@@ -8,7 +8,7 @@
 <body>
 
 <div class="header">
-    <h1>Привет! Меня зовут Игорь</h1>
+    <h1>Hello ! My name is Igor</h1>
     <p> I'm a Java developer </p>
 </div>
 
