@@ -8,8 +8,8 @@
 <body>
 
 <div class="header">
-    <h1>My GitHub Profile</h1>
-    <p> Ya krutoy specialist !</p>
+    <h1>Привет! Меня зовут Игорь</h1>
+    <p> I'm a Java developer </p>
 </div>
 
 </body>
