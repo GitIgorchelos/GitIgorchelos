@@ -37,7 +37,9 @@
 
 Я начинающий Java back-end разработчик.
 
--  Мой стек : Java, Spring MVC, Spring REST, Spring Security, SpringBoot, Hibernate, Maven, Tomcat, MySQL, PostgreSQL, Git, Docker, HTML .
+-  Мой стек : Java | Spring MVC | Spring REST | Spring Security | SpringBoot | Hibernate | Maven | Tomcat | MySQL | PostgreSQL | Git | Docker | HTML .
+
+-  Изучение Java начал на курсе JavaRush, в дальнейшем успещно его завершил .
 
 -  Занимаюсь активным изучением новых технологий, виду работу над Pet-проектами .
 
