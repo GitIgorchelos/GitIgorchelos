@@ -39,7 +39,7 @@
 
 -  Мой стек : Java | Spring MVC | Spring REST | Spring Security | SpringBoot | Hibernate | Maven | Tomcat | MySQL | PostgreSQL | Git | Docker | HTML .
 
--  Изучение Java начал на курсе JavaRush, в дальнейшем успещно его завершил .
+-  Изучение Java начал на курсе JavaRush, в дальнейшем успешно его завершил .
 
 -  Занимаюсь активным изучением новых технологий, виду работу над Pet-проектами .
 
