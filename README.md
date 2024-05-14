@@ -12,6 +12,9 @@
   <a href="https://t.me/Igorchelos" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/igor-korolev-a62567254/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -22,7 +25,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left"> Технологии :</h3>
 
 ###
 
@@ -53,7 +56,7 @@
 
 ###
 
- <h3 align="left">🔥   Моя статистика :</h3>
+ <h3 align="left">   Моя статистика :</h3>
 
 ###
 
