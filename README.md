@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="300" width="650" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRjamo0Z2k1cWR1MmVpam9jMW1wd3Brdndzdjd2MHJxdWF0NW5ibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif"  />
+  <img height="250" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFhZWNkczY5ZWgwNXZxMjlwNTJtNWwycmVnYTNlOTR4NWs1ZnF3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZJZS4VPcjlZtKwuX5n/giphy.gif"  />
 </div>
 
 ###
 
-<h1 align="center">Привет ! Я Игорь</h1>
+<h1 align="center">Привет ! Меня зовут Игорь !</h1>
 
 ###
 
@@ -23,7 +23,36 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GitIgorchelos.GitIgorchelos"  />
 </div>
 
+---
+
 ###
+
+<div align="center">
+  <img height="300" width="550" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
+<h3 align="left"> Обо мне :</h3>
+
+###
+
+Я начинающий Java back-end разработчик.
+
+-  Мой стек : Java, Spring MVC, Spring REST, Spring Security, SpringBoot, Hibernate, Maven, Tomcat, MySQL, PostgreSQL, Git, Docker, HTML .
+
+-  Занимаюсь активным изучением новых технологий, виду работу над Pet-проектами .
+
+-  Мои социальные сети :  <a href="https://t.me/Igorchelos" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>  <a href="https://www.linkedin.com/in/igor-korolev-a62567254/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>  <a href="https://www.instagram.com/igorhelos" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF69B4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>  <a href="https://vk.com/igorchelos" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Vk&logo=vk&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo"  />
+  </a>
+ 
+
+---
 
 <h3 align="left"> Технологии :</h3>
 
@@ -53,6 +82,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
 </div>
+
+---
 
 ###
 
