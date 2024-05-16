@@ -39,13 +39,13 @@
 
 Я начинающий Java back-end разработчик.
 
--  Мой стек : Java | Spring MVC | Spring REST | Spring Security | SpringBoot | Hibernate | Maven | Tomcat | MySQL | PostgreSQL | Git | Docker | HTML .
+-  Мой стек : Java | Spring MVC | Spring REST | Spring Security | SpringBoot | Hibernate | Maven | JUnit | Tomcat | MySQL | PostgreSQL | Git | Docker | HTML .
 
 -  Изучение Java начал на курсе JavaRush, в дальнейшем успешно его завершил .
 
 -  Занимаюсь активным изучением новых технологий, виду работу над Pet-проектами .
 
--  Мои социальные сети :  <a href="https://t.me/Igorchelos" target="_blank">
+-  Мои контакты :  <a href="https://t.me/Igorchelos" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>  <a href="https://www.linkedin.com/in/igor-korolev-a62567254/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -78,11 +78,13 @@
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="junit logo"  />
   <img width="12" />
 </div>
 
